@@ -8,3 +8,15 @@ En la tabla inferior se puede visualizar el tiempo estimado:
 
 
 ![tiempo estimado hash](https://user-images.githubusercontent.com/113166854/217254862-bb32e671-e86b-45dc-b47f-ce473f26857b.png)
+
+
+
+Links de interes:
+
+
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+https://www.youtube.com/watch?v=Us_Og3JeXiI
+
+https://www.youtube.com/watch?v=qOVAbKKSH10
+
