@@ -11,7 +11,7 @@ En la tabla inferior se puede visualizar el tiempo estimado:
 
 
 
-Links de interes:
+Links de interés:
 
 
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
