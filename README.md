@@ -1,5 +1,5 @@
 # Como-se-crea-una-blockchain
-Script detallado de como se crea una blockchain en Python
+Script detallado de como se crea una blockchain en Python 
 
 Debido a que hay 16 caracteres posibles en un valor hexadecimal, cada vez que incrementaamos la dificultad en un hash, hacemos que el rompecabezas sea 16 veces más 
 difícil, aumentando con ello el tiempo de resolución.
@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=Us_Og3JeXiI
 
 https://www.youtube.com/watch?v=qOVAbKKSH10
 
+
+* para la creación de este repositorio, he tomado como referencia el contenido didáctico de varios libros y diversos canales de youtube *
